@@ -30,7 +30,7 @@ SENTORA_CORE_VERSION="1.0.0"
 SENTORA_PRECONF_VERSION="1.0.3"
 
 PANEL_PATH="/etc/sentora"
-PANEL_DATA="/var/sentora"
+PANEL_DATA="/home/server/website"
 
 #--- Display the 'welcome' splash/user warning info..
 echo ""
